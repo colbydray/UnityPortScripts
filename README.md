@@ -5,9 +5,12 @@ change UnityPortExperimentsPath var in all scripts to Diffrent Directory
 
 cd to unity game data
 
+--- PC ---
 run $UnityPortExperimentsPath/Scripts/PC-UnityVerExtract.sh
 
+result will be put in UnityPortExperimentsPath/Games/<VERSION>/
 
+--- ---
 https://cloud.mail.ru/public/Hdoz/onZvisZTs
 put player rars in $UnityPortExperimentsPath/Player
 
